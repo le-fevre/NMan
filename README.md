@@ -1,2 +1,2 @@
 # NMan
-nba manager
+nmanager
